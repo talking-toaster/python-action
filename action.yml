@@ -1,5 +1,5 @@
 # action.yml
-name: 'python-action'
+name: 'python-action-requests'
 description: 'python3.8-alpine installed requests'
 inputs:
   who-to-greet:  # id of input
